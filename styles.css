@@ -3,3 +3,8 @@ body {
     background: black
     margin: 0px:
 }
+
+hearder {
+border-bottom: solid 2px rgb(42, 122, 228);
+margin: 20px;
+}
